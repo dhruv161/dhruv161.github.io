@@ -78,7 +78,7 @@ export default {
 				projectName: "Mngle",
 				summary: "Mngle is an online dating application providing dating service presented through a mobile phone application, often taking advantage of a smartphone’s GPS location capabilities, always on-hand presence, and easy access to digital photo galleries and mobile wallets to enhance the traditional nature of online dating.",
 				preview: "https://play.google.com/store/apps/details?id=com.mngle.app",
-				techStack: ["React Native", "Saga", "Redux", "Hooks", "Navigator", "Firebase", "Realtime Chat"],
+				techStack: ["React Native", "Saga", "Redux", "Redux", "Navigator", "Firebase", "Realtime Chat"],
 			},
 			{
 				projectName: "Smiles & Tears",
